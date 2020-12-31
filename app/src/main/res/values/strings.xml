@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MercedesDemo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="vehicle_type">Vehicle Name</string>
+    <string name="launch_year">Launch Year</string>
+</resources>
